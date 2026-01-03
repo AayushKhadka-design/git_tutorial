@@ -1,2 +1,3 @@
-feature 1 one
+
+feature 2 two
 

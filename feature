@@ -1,1 +1,2 @@
-Updated the conflict 1
+feature 1 one
+
